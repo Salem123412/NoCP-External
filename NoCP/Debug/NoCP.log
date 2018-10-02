@@ -1,0 +1,5 @@
+﻿  Aimbot.cpp
+d:\hax\my cheat\nocp\nocp\aimbot.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\hax\my cheat\nocp\nocp\aimbot.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  NoCP.vcxproj -> D:\Hax\My cheat\NoCP\Debug\NoCP.exe
