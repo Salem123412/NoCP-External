@@ -1,0 +1,16 @@
+﻿cl : Command line warning D9030: '/Yc' is incompatible with multiprocessing; ignoring /MP switch
+  Aimbot.cpp
+d:\hax\my cheat\nocp\nocp\aimbot.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\hax\my cheat\nocp\nocp\aimbot.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bhop.cpp
+  CloseProgram.cpp
+  Glow.cpp
+  main.cpp
+  Modules.cpp
+  RCS.cpp
+  Generating code
+  166 of 167 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    29 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NoCP.vcxproj -> D:\Hax\My cheat\NoCP\Release\NoCP.exe
